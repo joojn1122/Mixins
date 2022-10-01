@@ -249,7 +249,7 @@ Can-Retransform-Classes: true
 <img src="./assets/before.png">
 
 
-<strong style="display:block">Code:</strong>
+**Code:** 
 <img src="./assets/code.png">
 
 
