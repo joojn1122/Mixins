@@ -244,6 +244,19 @@ Can-Retransform-Classes: true
 
 ```
 
+## Showcase
+**Before:**
+<img src="./assets/before.png">
+
+
+<strong style="display:block">Code:</strong>
+<img src="./assets/code.png">
+
+
+**After: (Screenshot from injected class file)**
+<img src="./assets/after.png">
+
+
 ## Conclusion
 I hope you understood everything, if not you can contact me
 on discord `joojn#5485` or open issue request.
